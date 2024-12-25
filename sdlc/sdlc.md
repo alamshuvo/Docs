@@ -7,4 +7,10 @@ associated libraries and documentations software, when made for a specific requi
 - software engineering principles use two important tecniques to reduce problem complexity 
   1. Abstraction 
   2. Decomposition 
-  
+
+  # Software Development Life Cycle Model 
+  - A software life cycle model (also called proces model )is a descriptive and diagrammatic representation of the sotware life cycle 
+  - it represents all the activities required to make a software product transit through its life cycle phases 
+  # Different Life Cycle Models 
+  - Classical waterfall Model 
+  - iterative waterfall Model 
