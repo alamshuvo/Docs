@@ -1,7 +1,7 @@
  # MongoDb basic to Advance
  db.users.insertOne() dyea amra ekta user create korte pari .ekhane _id feild ta mongodb automatic dyea de.
  amra caile insertMany() use korte pari tokhn amra ekta array insert korte pari multiple object create use korte pari .jkn amra ekta single data create kori tahole amra insertOne() use kore takhi .
- # some code added 
+ # some code added  some code added 
 
 # User find kore dekha
 db.users.findOne() eta dyea amra kono ekta feild er upor depends kore kono data k find korte pari . amra jodi kkn o mongodb er id dyea kono kisu get kore takhi tahole amra ensure korte pari j ObjectId ta deya ache kina .
